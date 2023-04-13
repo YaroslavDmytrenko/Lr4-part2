@@ -1,0 +1,15 @@
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.csproj.AssemblyReference.cache
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.AssemblyInfoInputs.cache
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.AssemblyInfo.cs
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.csproj.CoreCompileInputs.cache
+F:\Vs\Source\Lr4\Lr4\bin\Debug\net6.0\Lr4.exe
+F:\Vs\Source\Lr4\Lr4\bin\Debug\net6.0\Lr4.deps.json
+F:\Vs\Source\Lr4\Lr4\bin\Debug\net6.0\Lr4.runtimeconfig.json
+F:\Vs\Source\Lr4\Lr4\bin\Debug\net6.0\Lr4.dll
+F:\Vs\Source\Lr4\Lr4\bin\Debug\net6.0\Lr4.pdb
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.dll
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\refint\Lr4.dll
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.pdb
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\Lr4.genruntimeconfig.cache
+F:\Vs\Source\Lr4\Lr4\obj\Debug\net6.0\ref\Lr4.dll
